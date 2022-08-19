@@ -1,0 +1,9 @@
+{
+	"id": "RandomStuffs_compound",
+	"nameOverride": "Compound",
+	"descriptionOverride": "Increases Card Cap by 49",
+	"value": 20,
+	"type": "resources",
+	"icon": "Compound.png",
+	"cardDataScript": "RandomStuffsNS.Compound"
+}

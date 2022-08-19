@@ -1,0 +1,17 @@
+{
+	"id": "blueprint_RandomStuffs_Compound",
+	"nameOverride": "Idea: Compound",
+	"nameTerm": "blueprint_RandomStuffs_Compound",
+	"group": "Resources",
+	"icon": "Compound.png",
+	"subprints": [
+		{
+			"requiredCards": "iron_bar, stone, iron_bar, iron_bar, iron_bar, plank, plank, plank, brick, brick, brick",
+			"cardsToRemove": "iron_bar, stone, iron_bar, iron_bar, iron_bar, plank, plank, plank, brick, brick, brick",
+			"resultCard": "RandomStuffs_Compound",
+			"extraResultCards": "",
+			"time": 60,
+			"statusOverride": "Making stuff"
+		}
+	]
+}
